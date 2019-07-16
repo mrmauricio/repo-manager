@@ -1,7 +1,9 @@
-![RepoManager](https://raw.githubusercontent.com/mrmauricio/repo-manager/master/src/utils/previews/home.png)
-![RepoManagerR](https://raw.githubusercontent.com/mrmauricio/repo-manager/master/src/utils/previews/repository.png)
-
 # Repo Manager
+
+<p >
+    <img src="./src/utils/previews/home-m.png" > 
+    <img src="./src/utils/previews/repository-m.png" >
+</p>
 
 ## Live Project
 
@@ -14,6 +16,6 @@ The app can be seen in action **[here](https://mrmauricio.github.io/repo-manager
 ## Run Locally
 
 -   Clone this repository and go into its src folder.
--   Run `npm install`
--   Run `npm start`
+-   Run `yarn`
+-   Run `yarn start`
 -   Go to `http://localhost:3000` to view the app.
