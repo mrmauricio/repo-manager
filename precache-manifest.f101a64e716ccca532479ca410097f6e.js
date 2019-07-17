@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5874f64701414f0e1d850a527594d1f6",
+    "revision": "cb89f5aec67d5d4fc1d6aa7c2b7abacc",
     "url": "/repo-manager/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/repo-manager/static/js/2.d4df579c.chunk.js"
   },
   {
-    "revision": "1547a8345f1b746fe117",
-    "url": "/repo-manager/static/js/main.6cf437ed.chunk.js"
+    "revision": "a0d432c5a2b8a9f1c557",
+    "url": "/repo-manager/static/js/main.8bc16d7d.chunk.js"
   },
   {
     "revision": "da0d1fa4886bf97691fb",
