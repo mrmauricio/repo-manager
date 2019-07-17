@@ -111,9 +111,7 @@ export const EmptyList = styled.h3`
     font-size: 15px;
     margin: 30px 0px;
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
 
     button {
         color: #7159c1;
